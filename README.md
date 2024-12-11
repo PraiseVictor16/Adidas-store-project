@@ -7,7 +7,7 @@ The purpose of the analysis is to evaluate the sales trends in the Adidas US sto
 The methodology used in this analysis involved Microsoft Excel for data cleaning. No null or duplicate values were found in this data, however, additional columns were added to gain more insights into the data and provide answers to the analytical questions. The added columns are 'Day' and 'Month'. After the process of data cleaning, Microsoft Excel’s Pivot Table and Chart were used to visualize the data. 
 # Results/Findings
 * The best performing region in the US Stores is the Western region making the most sales worth $269,943,182.
-* From the daily slaes pattern, it can br deduced that the most productive day is Friday.
+* From the daily sales pattern, it can be deduced that the most productive day is Friday.
 * Most customers (about 51%) prefer to shop online.
 * The best selling product is the Men’s Street Footwear making sales worth $208,826,244.
 * The top performing cities in terms of profit are Charleston, making the most profit and New York following behind.
